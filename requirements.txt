@@ -1,0 +1,10 @@
+cadquery==2.8.0
+fastapi==0.143.0
+uvicorn==0.54.0
+pydantic==2.14.0
+httpx==0.28.1
+trimesh==5.1.1
+ezdxf==1.4.4
+python-dotenv==1.2.4
+pytest==9.1.1
+
